@@ -1,23 +1,10 @@
-,Unnamed: 0,id,nombre,rubro,caracteristica,telefonos,direccion,localidad,Latitud,Longitud,dir_completa
-0,0,1,Camba Cuá,Camping,3773.0,408474.0,Ruta 40 y Yaguarete,Col. Carlos Pellegrini,,,"Ruta 40 y Yaguarete,Col. Carlos Pellegrini,Corrientes,Argentina"
-1,1,2,Municipal Ibera,Camping,3773.0,458926.0,Mbigua y Laguna Ibera,Col. Carlos Pellegrini,,,"Mbigua y Laguna Ibera,Col. Carlos Pellegrini,Corrientes,Argentina"
-2,2,3,Aires del Ibera,Cabañas,3773.0,403173.0,Caranguata y Tuyuyu,Col. Carlos Pellegrini,,,"Caranguata y Tuyuyu,Col. Carlos Pellegrini,Corrientes,Argentina"
-3,3,4,Camba Cuá 1,Cabañas,3773.0,408474.0,Guazuvira y Curupi,Col. Carlos Pellegrini,,,"Guazuvira y Curupi,Col. Carlos Pellegrini,Corrientes,Argentina"
-4,4,5,Camba Cuá 2,Cabañas,3773.0,408474.0,Aguape y Capivara,Col. Carlos Pellegrini,,,"Aguape y Capivara,Col. Carlos Pellegrini,Corrientes,Argentina"
-5,5,6,Capivara,Cabañas,3773.0,407587.0,Yaguarete entre Yatai y Pindo,Col. Carlos Pellegrini,,,"Yaguarete entre Yatai y Pindo,Col. Carlos Pellegrini,Corrientes,Argentina"
-6,6,7,Don Rubito ,Cabañas,3773.0,4105886.0,Nangapiri entre Panambi y Ruta 40,Col. Carlos Pellegrini,,,"Nangapiri entre Panambi y Ruta 40,Col. Carlos Pellegrini,Corrientes,Argentina"
-7,7,8,EI Rancho de Faustina ,Cabañas,3756.0,458953.0, Yeruti y Yatai,Col. Carlos Pellegrini,,," Yeruti y Yatai,Col. Carlos Pellegrini,Corrientes,Argentina"
-8,8,9,Ibera Nativo,Cabañas,3773.0,404188.0,Curupi y Capivara,Col. Carlos Pellegrini,,,"Curupi y Capivara,Col. Carlos Pellegrini,Corrientes,Argentina"
-9,9,10,Nde Roga,Cabañas,3784.0,840808.0,Yaguareté y Mburucuya,Col. Carlos Pellegrini,,,"Yaguareté y Mburucuya,Col. Carlos Pellegrini,Corrientes,Argentina"
-10,10,11,Aguape Lodge,Hoteles & Posadas,3773.0,413081.0,Yacare entre Ñangapiri y Timbo,Col. Carlos Pellegrini,,,"Yacare entre Ñangapiri y Timbo,Col. Carlos Pellegrini,Corrientes,Argentina"
-11,11,12,Arandu,Hoteles & Posadas,3718.0,514361.0,Aguara y Aguape,Col. Carlos Pellegrini,,,"Aguara y Aguape,Col. Carlos Pellegrini,Corrientes,Argentina"
-12,12,13,Che Teindy,Hoteles & Posadas,3773.0,438793.0,Mburucuya y Aguara,Col. Carlos Pellegrini,,,"Mburucuya y Aguara,Col. Carlos Pellegrini,Corrientes,Argentina"
-13,13,14,Eco Posada del Estero,Hoteles & Posadas,3773.0,443602.0,Yaguarete entre Pindo y Yatai,Col. Carlos Pellegrini,,,"Yaguarete entre Pindo y Yatai,Col. Carlos Pellegrini,Corrientes,Argentina"
-14,14,15,Posada Yacare,Hoteles & Posadas,3773.0,415329.0,Curupi entre Aguara y Yaguarete,Col. Carlos Pellegrini,,,"Curupi entre Aguara y Yaguarete,Col. Carlos Pellegrini,Corrientes,Argentina"
-15,15,16,,,,,,,,,
-16,16,17,,,,,,,,,
-17,17,18,,,,,,,,,
-18,18,19,,,,,,,,,
-19,19,20,,,,,,,,,
-20,20,21,,,,,,,,,
-21,21,22,,,,,,,,,
+,id,nombre,coordenadas
+0,1,Portal San Nicolás,"(-28.127324865071234, -57.434814947667874)"
+1,2,Portal Carambola,"(-28.42802136858528, -57.81935218480304)"
+2,3,Portal Cambyretá,"(-27.861330724772223, -56.874706679686916)"
+3,4,Portal Laguna Iberá,"(-27.85921967315458, -56.87613946236833)"
+4,5,Portal San Antonio,"(-27.86796, -57.39052)"
+5,6,Portal Uguay,"(-28.65959, -57.47726)"
+6,7,Portal Galarza,"(-28.09355, -56.70431)"
+7,8,Portal Rio Corrientes,"(-28.99378, -58.55925)"
+8,9,Parque Nacional Mburucuyá,"(-28.04233, -58.14519)"
